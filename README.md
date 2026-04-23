@@ -1,6 +1,6 @@
 # Eisenhower Matrix
 
-A premium, glassmorphism-styled productivity web application based on the Eisenhower Matrix method. Organize your tasks by urgency and importance to maximize your efficiency.
+A simple productivity web application based on the Eisenhower Matrix method. Organize your tasks by urgency and importance to maximize your efficiency.
 
 ## 🌐 Live Demo
 [**Launch the Eisenhower Matrix**](https://vibeuna.github.io/eisenhower-matrix/)
