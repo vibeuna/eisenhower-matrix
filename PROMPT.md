@@ -1,12 +1,13 @@
-# Prompt for Generating the Eisenhower Matrix App
+# The Eisenhower Matrix App — The Full Prompt
 
-You can use the following prompt to ask an AI to regenerate the exact same application we just built.
+> This document contains the exact prompt that was used to generate the **Eisenhower Matrix** Web App. It can be reused, adapted, or shared as a reference for AI-assisted app generation.
 
-***
+---
 
-**Prompt to copy/paste:**
+## The Prompt
 
-Please build a premium, glassmorphism-styled Eisenhower Matrix productivity web application using only Vanilla HTML, CSS, and JavaScript (no frameworks or bundlers). 
+```
+Build a premium, glassmorphism-styled Eisenhower Matrix productivity web application using only Vanilla HTML, CSS, and JavaScript (no frameworks or bundlers). 
 
 The application must include the following features, architecture, and exact files (`index.html`, `styles.css`, `app.js`):
 
@@ -31,4 +32,5 @@ The application must include the following features, architecture, and exact fil
    - **Completion Handling**: Checking the checkbox on an active task moves it out of the matrix and prepends it into the "Completed Tasks" accordion.
    - **Completed Tasks UI**: Within the completed section, tasks should show a strikethrough effect and have a "Restore" button (moves it back to its original quadrant) and a "Permanently Delete" button.
 
-Please output the complete and fully functional code for `index.html`, `styles.css`, and `app.js`.
+Output the complete and fully functional code for `index.html`, `styles.css`, and `app.js`.
+```
